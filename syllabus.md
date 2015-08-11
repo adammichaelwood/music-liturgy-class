@@ -88,10 +88,86 @@ Each scheduled class time will be divided into two separate class "periods."
 
 ### 1B --- Music in the Early Church
 
+ - Musical Sources
+    - Jewish Roots
+       - Psalmody
+    - Pagan Songs
+    - Early Christian Hymns
+       - Scripture
+       - Extra-canonical sources (Didache, etc)
+ - Liturgy
+    - What we know...
+    - What we don't know...
+
 ### 2A --- Medieval Music
 
-### 2B
+ - Old Roman Chant, Gallican Chant
+ - The Rise of Franco-Roman chant
+    - The Development of the Propers
+ - Diversity and Unity in Western Church liturgy
+ - Hymns and Sequences
 
-### 3A
+Important people:
+ - Pepin
+ - Gregory
+ - Guido
+ - Hildegard
+ - Thomas Aquinas
 
-### 3B
+### 2B --- Renaissance, Reformation, and Romanism
+
+ - Early polyphony
+ - Reformation and Counter reformation
+ - High Polyphony
+ - Influences on music style:
+    - Art (Perspective)
+    - Architecture (Acoustics)
+    - Politics
+    - Protestantism
+
+Important People:
+ - Luther
+ - Palestrina
+ - Byrd
+
+### 3A --- Late Modern Period: Liturgical Movement, Council, and the Novus Ordo
+
+ - Where we were
+    - Decadence
+    - Opera
+    - Low Mass
+    - Corrupt music
+ - Where we started to go
+    - The Early Liturgical Movement
+    - The restoration of Gregorian chant
+    - Pre-concilliar Papal statements
+    - Holy Week Reforms
+    - _Sacrosanctum Concilium_
+ - Where we went instead
+    - Vernacular Low Mass
+    - Hymns
+    - Loss of Gregorian Chant
+
+What does active participation mean?
+
+Participation in what?
+
+Important People:
+ - Odo Casel
+ - Pope Pius IX
+ - Gueranger
+ - Pope Pius X
+ - Justine Ward
+ - Pope Paul VI
+ - Bugnini
+
+### 3B --- Today and Tomorrow
+
+ - Two forms of the Roman Rite
+    - Mutual enrichment
+ - The Reform of the Reform
+    - Vernacular Propers
+    - The restoration of the sacred
+
+Important People:
+ - Benedict XVI
