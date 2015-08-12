@@ -63,7 +63,7 @@ Each scheduled class time will be divided into two separate class "periods."
     - The Roman Missal (especially the General Instruction)
     - Graduale Romanum
     - Graduale Simplex
- - Ritual Resources
+ - Supplemental Ritual Resources
     - Lumen Christi Missal and Simple Gradual
     - St. Campion Traditional Latin Mass Missal
     - Parish Book of Chant
@@ -79,10 +79,12 @@ Each scheduled class time will be divided into two separate class "periods."
     - What is music?
     - What is liturgy?
     - What is liturgical music? 
+    - What is the purpose of music in liturgy?
  - Three things to keep in mind:
     - Music is sound, not marks on paper.
     - Music is always culturally specific.
     - Music in the liturgy always serves a liturgical function.
+    - Liturgy is, fundamentally, a sung act.
  - What do we know about the structure of Mass?
 
 
@@ -140,7 +142,9 @@ Important People:
  - Where we started to go
     - The Early Liturgical Movement
     - The restoration of Gregorian chant
-    - Pre-concilliar Papal statements
+    - Pre-concilliar documents
+       - _Tra Le Sollecitudini_
+       - _Mediator Dei_
     - Holy Week Reforms
     - _Sacrosanctum Concilium_
  - Where we went instead
