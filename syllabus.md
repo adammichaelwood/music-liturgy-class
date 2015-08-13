@@ -50,12 +50,12 @@ Each scheduled class time will be divided into two separate class "periods."
 
 #### Required
 
- - The Musical Shape of the Liturgy
+ - [The Musical Shape of the Liturgy](http://amzn.to/1N8Unsr)
 
 #### Optional / Supplemental
 
- - The Christian West and Its Singers
- - The Advent Project
+ - [The Christian West and Its Singers](http://amzn.to/1TrVqn1)
+ - [The Advent Project](http://amzn.to/1TrVkfb)
 
 #### Books we'll talk about (you might want them)
 
@@ -114,7 +114,6 @@ Important people:
  - Gregory
  - Guido
  - Hildegard
- - Thomas Aquinas
 
 ### 2B --- Renaissance, Reformation, and Romanism
 
@@ -145,19 +144,19 @@ Important People:
     - Pre-concilliar documents
        - _Tra Le Sollecitudini_
        - _Mediator Dei_
-    - Holy Week Reforms
-    - _Sacrosanctum Concilium_
+       - _De Musica Sacra_
+    - Vatican II
+       - _Sacrosanctum Concilium_
  - Where we went instead
     - Vernacular Low Mass
     - Hymns
-    - Loss of Gregorian Chant
+    - Iconoclasm
 
 What does active participation mean?
 
 Participation in what?
 
 Important People:
- - Odo Casel
  - Pope Pius IX
  - Gueranger
  - Pope Pius X
